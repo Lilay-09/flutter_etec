@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">asign_flog</string>
+  <string name="facebook_app_id">221006580221796</string>
+  <string name="fb_login_protocol_scheme">fb221006580221796</string>
+</resources>
+
